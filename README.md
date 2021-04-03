@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Modu9173
+- 👋 Hi, I’m Modupeoluwa, Modupe for short
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: ademolamodupe13@gmail.com
