@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Modupeoluwa, Modupe for short
 - 👀 I’m interested in becoming a UX designer
-- 🌱 I’m currently learning languages related to full stack development
+- 🌱 I’ve learnt HTML, CSS, BOOTSRAP. Currently trying to be better at JS
 - 📫 You can reach me at ademolamodupe13@gmail.com
 
 <!---
